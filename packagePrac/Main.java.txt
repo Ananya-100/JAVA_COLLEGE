@@ -1,0 +1,8 @@
+import pTwo.SecondClass;
+
+public class Main {
+    public static void main(String[] args) {
+        SecondClass obj = new SecondClass();
+        obj.callMethod(); // Accessing method of SecondClass
+    }
+}
